@@ -2,28 +2,13 @@
 
 ## All need to know in HTML
 
+### SEO
+- [12 SEO HTML Tags You Need to Know](https://www.semrush.com/blog/html-tags-for-seo/)
+- [15 HTML Tags Essential for SEO](https://www.link-assistant.com/news/html-tags-for-seo.html#12-Responsive-Site-meta-tag57)
 
-### Core Concepts of HTML
+## All need to know in CSS
 
-These are the building blocks of every webpage.
+### Flex & Grid box
 
-**A. HTML Syntax and Structure**
-- How to write HTML documents: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`.
-- Common tags and their purposes:
-`<h1>` to `<h6>`: Headings.
-`<p>`: Paragraphs.
-`<span>`: Inline elements.
-`<div>`: Block-level elements.
-- Attributes: Adding extra information to tags (e.g., `id`, `class`, `title`).
-
-**B. HTML Semantics**
-Learn to write meaningful and SEO-friendly HTML.
-
-- Semantic tags:
-`<header>`, `<footer>`, `<article>`, `<section>`, `<aside>`, `<main>`, `<nav>`.
-Why semantic tags improve accessibility and search engine rankings.
-
-**C. Links and Navigation**
-- Internal and external links: `<a href="page.html">`.
-- Opening links in new tabs with `target="_blank"`.
-- Navigation menus using lists (`<ul>`, `<li>`) and links.
+- [A CSS Flexbox Cheatsheet](https://www.digitalocean.com/community/cheatsheets/css-flexbox?utm_medium=content_acq&utm_source=css-tricks&utm_campaign=&utm_content=awareness_bestsellers)
+- [4 CSS Grid Properties (and One Value) for Most of Your Layout Needs](https://css-tricks.com/4-css-grid-properties-and-one-value-for-most-of-your-layout-needs/)
